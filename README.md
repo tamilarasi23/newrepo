@@ -1,2 +1,4 @@
-# newrepo
-just another repository
+#newrepo
+
+hi all
+hw r u
